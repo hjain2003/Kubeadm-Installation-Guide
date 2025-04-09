@@ -2,12 +2,6 @@
 
 This guide outlines the steps needed to set up a Kubernetes cluster using kubeadm.
 
-## Pre-requisites:
-* Ubuntu OS (Xenial or later)
-* sudo privileges
-* AWS Account
-* Passion to Learn
-
 ### Master & Worker Node: 
 Run the following commands on both the master and worker nodes to prepare them for kubeadm.
 
